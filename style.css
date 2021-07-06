@@ -1,0 +1,226 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Otomanopee One', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.orange-color{
+    color: orange;
+}
+
+.section-1{
+    
+    display: flex;
+    background: url('./image/top-banner.png');
+    background-position: inherit;
+    background-repeat: no-repeat;
+    margin-bottom: 150px;
+}
+
+.half-left{
+    width: 50%;
+    padding-left: 8%;
+}
+
+.half-left a{
+    padding: 10px 35px;
+    font-size: 16px;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    border: none;
+    border-radius: 5px;
+    color:  white;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.half-right{
+    width: 50%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.half-right img{
+    width: 75%;
+}
+
+
+.section-2{
+    display: flex;
+    padding: 120px 0px 0px;
+    background-image: url("Images/background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.Section2-left{
+    width: 50%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Section2-left img{
+    width: 70%;
+}
+
+.Section2-right{
+    width: 50%;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+.Section2-right h3{
+    font-size: 50px;
+}
+.Section2-right p{
+    margin: 30px 0px;
+}
+
+.Section2-right a{
+    padding: 10px 35px;
+    font-size: 16px;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    border: none;
+    border-radius: 5px;
+    color:  white;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.section-3{
+   width:90%;
+   display;flex;
+  
+   margin; 0 auto;
+   overflow;hidden
+}
+
+.section-3 h3{
+    color: black;
+    t
+   
+}
+.Total{display: flex;
+        }
+.Total-img{display:flex:}
+.box{
+    width: 30%;
+    margin:0 px; 50 px;
+    image display : flex;
+    
+}
+/* recipie section css code here */
+
+
+
+.recipies-section{
+    width: 100%;
+    padding: 80px 0px;
+}
+.recipies-section .recipies-fist{
+    width: 100%;
+    text-align: center;
+}
+.recipies-section .recipies-fist h1{
+    font-size: 42px;
+    font-weight: 700;
+    margin: 0px 0px 40px;
+}
+.recipies-section .recipies-fist p{
+    width: 50%;
+    margin: 0px auto 50px;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+}
+.recipies-inner{
+    width: 100%;
+    display: flex;
+}
+.recipies-inner .recipies-inner-fist{
+    width: 25%;
+    margin: 4%;
+    padding: 30px;
+    border-radius: 35px;
+    box-shadow: 1px 7px 30px #8e8e8e;
+}
+.recipies-inner .recipies-inner-fist img{
+    width: 100%;
+}
+.recipies-inner .recipies-inner-fist h3{
+    font-size: 20px;
+    font-weight: 700;
+    margin: 20px 0px;
+}
+.recipies-inner .recipies-inner-fist p{
+    font-size: 18px;
+    line-height: 32px;
+    letter-spacing: 1.2px;
+    font-weight: 600;
+}
+.recipies-inner .recipies-inner-second{
+    width: 25%;
+    margin: 4%;
+    padding: 30px;
+    border-radius: 35px;
+    box-shadow: 1px 7px 30px #8e8e8e;
+}
+.recipies-inner .recipies-inner-second img{
+    width: 100%;
+}
+.recipies-inner .recipies-inner-second h3{
+    font-size: 20px;
+    font-weight: 700;
+    margin: 20px 0px;
+}
+.recipies-inner .recipies-inner-second p{
+    font-size: 18px;
+    line-height: 32px;
+    letter-spacing: 1.2px;
+    font-weight: 600;
+}
+
+.recipies-inner .recipies-inner-third{
+    width: 25%;
+    margin: 4%;
+    padding: 30px;
+    border-radius: 35px;
+    box-shadow: 1px 7px 30px #8e8e8e;
+}
+.recipies-inner .recipies-inner-third img{
+    width: 100%;
+
+}
+.recipies-inner .recipies-inner-third h3{
+    font-size: 20px;
+    font-weight: 700;
+    margin: 20px 0px;
+}
+.recipies-inner .recipies-inner-third p{
+    font-size: 18px;
+    line-height: 32px;
+    letter-spacing: 1.2px;
+    font-weight: 600;
+}
+
+
+/* recipies section code end here */
+.section-4 {height:200px;
+    width:auto;
+   background-color: black;  
+ text-align:center;    }
+
+.section-4 h2{
+    color: grey;
+    padding-top: 40px;
+}
+.section-4 p{
+    color:white;
+ }
+
